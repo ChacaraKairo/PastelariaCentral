@@ -1,0 +1,1 @@
+/*Esta trigger atualiza o status da mesa ao abrir uma comanda*/
